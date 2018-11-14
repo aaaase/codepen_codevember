@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="100px" height="100px" viewBox="0 0 100 100" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.2 (67145) - http://www.bohemiancoding.com/sketch -->
+    <title>Artboard</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#C45C0B" offset="0%"></stop>
+            <stop stop-color="#7B3D12" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="-62.4699519%" x2="50%" y2="100%" id="linearGradient-2">
+            <stop stop-color="#F7D98A" offset="0%"></stop>
+            <stop stop-color="#ECB151" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="86.7524246%" y1="100%" x2="50%" y2="100%" id="linearGradient-3">
+            <stop stop-color="#F0D181" offset="0%"></stop>
+            <stop stop-color="#DCA54A" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="95.2357701%" y1="100%" x2="50%" y2="100%" id="linearGradient-4">
+            <stop stop-color="#F7D989" offset="0%"></stop>
+            <stop stop-color="#ECB151" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Artboard" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <polygon id="Rectangle" fill="url(#linearGradient-1)" points="12 18 88 18 76.4848485 100 23.5151515 100"></polygon>
+        <path d="M19.5471293,0 L49.5502529,0 L79.4528707,1.77635684e-15 C81.2640564,1.44364741e-15 82.8492331,1.21699518 83.3171047,2.96670664 L86,13 L13,13 L15.6828953,2.96670664 C16.1507669,1.21699518 17.7359436,2.99724469e-15 19.5471293,2.66453526e-15 Z" id="Rectangle" fill="url(#linearGradient-2)"></path>
+        <path d="M11.8768965,10 L87.122609,10 C88.4908426,10 89.7641524,10.6993468 90.4982099,11.8539994 L92.7465004,15.3904996 C93.6354029,16.7887193 93.2225198,18.6427981 91.8243001,19.5317007 C91.3431941,19.8375584 90.7848979,20 90.2147997,20 L8.78470587,20 C7.12785162,20 5.78470587,18.6568542 5.78470587,17 C5.78470587,16.4299018 5.94714742,15.8716056 6.25300518,15.3904996 L8.50129563,11.8539994 C9.23535315,10.6993468 10.5086629,10 11.8768965,10 Z" id="Rectangle" fill="url(#linearGradient-3)"></path>
+        <polygon id="Rectangle" fill="url(#linearGradient-4)" points="15 43 85 43 81.6612903 71 18.3387097 71"></polygon>
+    </g>
+</svg>
