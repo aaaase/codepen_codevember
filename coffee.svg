@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="100px" height="100px" viewBox="0 0 100 100" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.2 (67145) - http://www.bohemiancoding.com/sketch -->
+    <title>Artboard</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Artboard" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group" transform="translate(11.000000, 0.000000)">
+            <polygon id="Rectangle" fill="#FCAAC7" points="5 18 74 18 63.5454545 100 15.4545455 100"></polygon>
+            <path d="M5.65110984,10 L73.3484412,10 C74.7775788,10 76.0981444,10.7624753 76.8126481,12.0001824 L78.8331021,15.5001368 C79.6614537,16.9350582 79.1697316,18.7698036 77.7348101,19.5981552 C77.278785,19.8614094 76.7615033,20 76.2349469,20 L2.76460413,20 C1.10774988,20 -0.235395866,18.6568542 -0.235395866,17 C-0.235395866,16.4734436 -0.0968052478,15.9561619 0.166448967,15.5001368 L2.18690295,12.0001824 C2.90140659,10.7624753 4.22197225,10 5.65110984,10 Z" id="Rectangle" fill="#9EF8FF"></path>
+            <path d="M13.2910584,0 L40.0454342,0 L66.7089416,8.8817842e-16 C68.5560097,5.48877505e-16 70.1628943,1.26469896 70.5969341,3.06004576 L73,13 L7,13 L9.40306586,3.06004576 C9.83710575,1.26469896 11.4439903,3.39300915e-16 13.2910584,0 Z" id="Rectangle" fill="#9EF8FF"></path>
+            <polygon id="Rectangle" fill="#9EF8FF" points="7 43 72 43 68.8548387 71 10.1451613 71"></polygon>
+        </g>
+    </g>
+</svg>
